@@ -1,4 +1,3 @@
-# Habit-Tracker
 # Habit Tracker
 
 A simple and responsive **Habit Tracker** web application that helps users create habits, track daily completion, monitor progress, and visualize streaks.
